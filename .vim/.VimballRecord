@@ -1,0 +1,2 @@
+tcomment.vba: call delete('/home/sp/.vim/doc/tcomment.txt')|call delete('/home/sp/.vim/plugin/tcomment.vim')|call delete('/home/sp/.vim/autoload/tcomment.vim')
+getscript.vba: call delete('/home/sp/.vim/plugin/getscriptPlugin.vim')|call delete('/home/sp/.vim/autoload/getscript.vim')|call delete('/home/sp/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/home/sp/.vim/doc/pi_getscript.txt')
